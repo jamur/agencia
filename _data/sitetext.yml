@@ -95,7 +95,7 @@ pt: &DEFAULT_PT
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "NOSSO MARAVILHOSO TIME"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -132,22 +132,22 @@ pt: &DEFAULT_PT
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Nos Chame"
     text: "Lorem ipsum or call 123456789"
     section: contato
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Nome*"
+    name-validation: "Diga-nos seu nome, por favor."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    email-validation: "Gostaríamos de saber seu email."
+    phone: "Telefone"
+    phone-validation: "Gostaríamos de ter seu número de telefone."
+    message: "Mensagem*"
+    message-validation: "Por gentileza, deixe-nos uma mensagem.."
+    subject: "Submissão do Formulário de Contato"
+    submit: "Enviar Mensagem"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Política de Privacidade"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
