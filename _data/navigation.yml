@@ -56,3 +56,26 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+
+# Português
+# -------
+pt: &DEFAULT_PT
+  nav:
+    - title: "Serviços"
+      section: servicos
+    - title: "Portfólio"
+      section: portfolio
+    - title: "Sobre"
+      section: sobre
+    - title: "Cronología"
+      section: linhatempo
+    - title: "Equipe"
+      section: team
+    - title: "Contato"
+      section: contato
+    - title: "Tema"
+      url: https://github.com/raviriley/agency-jekyll-theme/
+pt-BR:
+  <<: *DEFAULT_PT
+pt-PT:
+  <<: *DEFAULT_PT
